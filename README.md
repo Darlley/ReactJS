@@ -21,3 +21,7 @@ Na live [BatePapoDev #1 | React, o framework que dominou a web com Fernando Daci
 
 1. [Mathing Game](https://github.com/Darlley/CollabCode/tree/main/matching-game) - Curso de JavaScript antes do React
 1. [Desafios pré-work do B. Academy](https://github.com/Darlley/Bootcamp-React) - Resolução dos exercícios do [PRÉ-WORK] Bootcamp React.js
+2. [Bootcamp Eduzz FullStack Developer](https://github.com/Darlley/digital-innovation-one/tree/main/bootcamp-Eduzz-Fullstack-Developer) - Bootcamp fullstack da Digital Innovation One com ReactJS + Node.js + MongoDB
+3. [Next Level Week - Letme Ask](https://github.com/Darlley/letmeask) - Next Level Week da Rocketseat com ReactJS/Typescript + Firebase
+4. [Curso Frontend Rect](https://github.com/Darlley/curso-fullstack-devinvestidor-react) - Curso full stack com ReactJS/JavaScript + Material Design + Node.js
+5. [Crud](https://github.com/Darlley/crud-next-mongodb-chakraui) - Crud com Next.js + MongoDB + Chakra UI
