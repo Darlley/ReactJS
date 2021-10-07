@@ -7,9 +7,12 @@ Na live [BatePapodev #4 Fábio Vedovelli - Frameworks Javascript e a ascensão d
 Na live [BatePapoDev #1 | React, o framework que dominou a web com Fernando Daciuk](https://youtu.be/Fh6vnBTdKvE?t=683) o Fernando Daciuk citou que a melhor coisa do React é o fato do Facebook ser a organização por trás do projeto e que suas atualizações são compativeis, as aplicações mais dificilmente irão quebrar por que o próprio time de desenvolvimento testa o framework.
 
 ---
+## CURSOS DISPONÍVEIS
 
 1. [Curso de JavaScript para React](https://www.youtube.com/playlist?list=PLirko8T4cEmzWZVn_ZKQbfDOuCnSZJ4va) - Marco Bruno (Gratuito)
-1. [[PRE-WORK] Bootcamp React.js](https://www.twitch.tv/collections/tzENAunimhZAIw) - Fernando Daciuk (Gratuito)
+1. [Curso React.js Ninja: Módulo React + Webpack](https://www.udemy.com/course/reactjs-ninja-modulo-react-webpack/)
+1. [Bootcamp React.js - B. Academy](https://fdaciuk.notion.site/Bootcamp-React-js-B-Academy-04beed6c0dda4b79a28709b0f4cf6042) - Fernando Daciuk (Gratuito)
+1. [NLW Together ReactJS](https://app.rocketseat.com.br/node/mission-react-js) - Diego Fernandes (Gratuito)
 1. [Curso de React](https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO) - Matheus Battisti (Gratuito)
 1. [Curso React.js Ninja - React Completo](https://www.udemy.com/course/curso-reactjs-ninja/) - Fernando Daciuk (Pago)
 1. [React Completo](https://www.origamid.com/curso/react-completo/) - Origamid (Pago)
@@ -21,6 +24,7 @@ Na live [BatePapoDev #1 | React, o framework que dominou a web com Fernando Daci
 
 1. [Mathing Game](https://github.com/Darlley/CollabCode/tree/main/matching-game) - Curso de JavaScript antes do React
 1. [Desafios pré-work do B. Academy](https://github.com/Darlley/Bootcamp-React) - Resolução dos exercícios do [PRÉ-WORK] Bootcamp React.js
+1. [Curso React.js Ninja: Módulo React + Webpack](https://github.com/Darlley/ReactJS/tree/main/react-ninja-webpack)
 2. [Bootcamp Eduzz FullStack Developer](https://github.com/Darlley/digital-innovation-one/tree/main/bootcamp-Eduzz-Fullstack-Developer) - Bootcamp fullstack da Digital Innovation One com ReactJS + Node.js + MongoDB
 3. [Next Level Week - Letme Ask](https://github.com/Darlley/letmeask) - Next Level Week da Rocketseat com ReactJS/Typescript + Firebase
 4. [Curso Frontend Rect](https://github.com/Darlley/curso-fullstack-devinvestidor-react) - Curso full stack com ReactJS/JavaScript + Material Design + Node.js

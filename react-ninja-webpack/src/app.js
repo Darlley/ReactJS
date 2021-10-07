@@ -1,7 +1,11 @@
 'use strict'
 
-function sum(value1, value2){
-    return value1+value2;
+import React from 'react'
+
+const App = () => {
+  return (
+    <h1>Aplicação new</h1>
+  )
 }
 
-module.exports = sum;
+export default App
