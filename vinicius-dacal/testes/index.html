@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>O que é e para que serve ReactJS?</title>
+
+    <style>
+        .form {
+            background-color: tomato;
+        }
+    </style>
+</head>
+<body>
+    
+    <div id="root"></div>
+
+    <script crossorigin src="https://unpkg.com/react@17/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js"></script>
+    <script>
+        function ResultadoSoma({ a, b }) {
+        const [values, setValues] = useState({ a, b });
+
+        function onChange(event) {
+            setValues({
+            ...values,
+            [event.target.name]: event.target.value
+            });
+        }
+
+        return (
+            <div>
+            <input name="a" value={values.a} onChange={onChange} />
+            <input name="b" value={values.b} onChange={onChange} />
+            <p>Resultado da soma: {parseInt(values.a) + parseInt(values.b)}</p>
+            </div>
+        );
+        //return `${a} + ${b} = ${a + b}`;
+        }
+
+        //const props = { a: 5, b: 5 };
+
+        ReactDOM.render(
+        <div className="form">
+            <h1>Soma</h1>
+            <p>
+            <ResultadoSoma a={10} b={5} />
+            </p>
+        </div>,
+        document.querySelector("#root")
+        );
+
+        /*
+        ReactDOM.render(
+        <div>
+            <h1>Operação aritmética de soma</h1>
+            <p><ResultadoSoma a={1} b={2} /></p>
+        </div>,
+        document.querySelector('#root')
+        );
+        ReactDOM.render(
+        React.createElement('div', null,
+            React.createElement('h1', null, 'Operação de adição'),
+            React.createElement('p', null,
+            React.createElement(ResultadoSoma, props),
+            ),
+        ),
+        document.querySelector('#root')
+        );*/
+
+    </script>
+    
+</body>
+</html>
