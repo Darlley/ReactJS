@@ -1,3 +1,5 @@
+[![Thumbnail](https://i.ytimg.com/vi/BMUH-No-vmc/maxresdefault.jpg)](https://www.youtube.com/watch?v=BMUH-No-vmc)
+
 ### OS PRINÍCIOS DO REACT
 
 - Props + state + render = view. 
