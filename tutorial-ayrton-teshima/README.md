@@ -1,0 +1,4 @@
+![thumbnail](https://i.ytimg.com/vi/Ws9WVHhNq5M/maxresdefault.jpg)
+
+React é um biblioteca baseada em componentes (components-based), tudo são components (funções ou classes)!
+Por conta de muitos componentes encadeados a tendência natural da propagação das informações entre os componentes é de cima para baixo, do componente pai ao componente filho (One-way data flow / One-way binding). E para burlar este fluxo para que possa ocorrer o envio de informações de baixo para cima muitas bibliotecas criaram gerenciadores de estados, o React tem o Redux (o Angular tem NgRx e o para o Vue.js existe o Redux), mas existem formas de se evitar isso tem recorrer a algum desses generenciadores de estado: Context API e a técnica de composition.

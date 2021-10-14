@@ -3,8 +3,7 @@ const Title = (props) => {
 
     return (
         <div>
-            <h1>Oii {prompt("Qual o seu nome? O.o")} sz</h1>
-            <h2>{props.lastName}</h2>
+            <h1>Lista: {props.name} {props.lastName}</h1>
         </div>
     )
 }

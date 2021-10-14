@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>React JS - MELHOR GUIA para Iniciantes!</title>
+</head>
+<body>
+    
+    <div data-js="app"></div>
+    <script crossorigin src="https://unpkg.com/react@17/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.26.0/babel.js"></script>
+    <script>
+        function MeuComponente1(){
+            return React.createElement('div', { className: "componente-1" },
+                React.createElement(MeuComponente2)
+            )
+        }
+        function MeuComponente2(){
+            return React.createElement('div', { className: "componente-2" },
+                React.createElement(MeuComponente3)
+            )
+        }
+        function MeuComponente3(){
+            const nome = 'Darlley'
+            return React.createElement('div', { className: "componente-3" },
+                React.createElement(MeuComponente4)
+            )
+        }
+        function MeuComponente4(){
+            return React.createElement('div', { className: "componente-4" },
+                React.createElement('p', null, 'Componente 4')
+            )
+        }
+
+        function MeuComponente(){
+            return React.createElement('div', { id: "componente-pai" },
+                React.createElement(MeuComponente1)
+            )
+        }
+
+        ReactDOM.render(
+            React.createElement(MeuComponente),
+            document.querySelector('[data-js="app"]')
+        )
+    </script>
+</body>
+</html>

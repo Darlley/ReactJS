@@ -24,14 +24,16 @@
     <script crossorigin src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.26.0/babel.js"></script>
     
+    <script src="friends.js"></script>
     <script type="text/babel" src="components/Menu.js"></script>
     <script type="text/babel" src="components/Title.js"></script>
+    <script type="text/babel" src="components/App.js"></script>
+    <script type="text/babel" src="components/friends.js"></script>
     <script type="text/babel">
-        const $rootElement = document.querySelector('[data-js="root"]');
-        ;
+        const $rootElement = document.querySelector('[data-js="root"]');        ;
 
         ReactDOM.render(
-            <Title name="Darlley" lastName="Brito" />,
+            <App friends={friends} />,
             $rootElement
         )
     </script>
