@@ -1,0 +1,1 @@
+![Thumb](https://i.ytimg.com/vi/JMaFQMuaro0/maxresdefault.jpg)
