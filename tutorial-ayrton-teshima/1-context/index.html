@@ -11,11 +11,17 @@
     <div data-js="app"></div>
     <script crossorigin src="https://unpkg.com/react@17/umd/react.development.js"></script>
     <script crossorigin src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.26.0/babel.js"></script>
     <script>
+        const NomeContext = React.createContext('nome')
         function MeuComponente1(){
-            return React.createElement('div', { className: "componente-1" },
-                React.createElement(MeuComponente2)
+            const nome = 'CONTEXT API: componente-1'
+
+            return (
+                React.createElement(NomeContext.Provider, {value: nome},
+                    React.createElement('div', { className: "componente-1" },
+                        React.createElement(MeuComponente2)
+                    )
+                )
             )
         }
         function MeuComponente2(){
@@ -24,14 +30,19 @@
             )
         }
         function MeuComponente3(){
-            const nome = 'Darlley'
             return React.createElement('div', { className: "componente-3" },
                 React.createElement(MeuComponente4)
             )
         }
         function MeuComponente4(){
-            return React.createElement('div', { className: "componente-4" },
-                React.createElement('p', null, 'Componente 4')
+            return (
+                React.createElement(NomeContext.Consumer, null,
+                    (nome) => (
+                        React.createElement('div', { className: "componente-4" },
+                            React.createElement('p', null, `Componente 4 - ${nome}`)
+                        )
+                    )
+                )
             )
         }
 
