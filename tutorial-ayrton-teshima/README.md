@@ -11,6 +11,17 @@ Por conta de muitos componentes encadeados a tendência natural da propagação 
 
 O compoente criado da forma tradicional não tem filho e assim ocorre um encademento de componentes até chegar ao filho. A técnica de composition é especificar de dentro de um compoente que esta dentro do componente principal qual o seu filho. No próprio componente principal você consegue dizer qual o componente filho e qual o componente neto. Ao invés de componente vô -> chamar componente filho -> para chamar o componente neto, agora basta dizer do componente vô -> diz qual o componente pai + componente filho.
 
-3. STATE
+3. STATE E GERENCIAMENTE DE ESTADO
 
-O state é o cérebro do componente, diferente das props que são somente propriedades que armazenam informações do componente. Ele comanda quando renderizar novas informações, a forma tradicional de se faxzer isto eram com classes utilizando setStates e a forma atual é através dos hooks (useState)
+O state é o cérebro do componente, diferente das props que são somente propriedades que armazenam informações do componente. Ele comanda quando renderizar novas informações, a forma tradicional de se fazer isto eram com classes utilizando setState e a forma atual é através dos hooks (useState).
+Tanto o valor do estado como sua mudança podem ser elevados (elevação de estado, isto é, repassados via argumentos como props de um componente a outro) e conforme a hierarquia de componentes vai ficando cada vez mais complexa é necessário o uso de gerenciadores de estados como Redux.
+
+> React tem reatividade, componentes reativos, componentes que não precisam recarregar a tela para atualizar seus valores.
+
+4. CICLO DE VIDA DE UM COMPONENTE (Lifecycle)
+
+O ciclo de vida (o hook chamado useEffect) de um componente de classe é diferente de um funcional. O componente é criado, nomeado, atualizado... e podemos criar funções para cada etapa para executar diferentes coisas (uma requeste no back-end quando o componente ser criado, ou alguma interação na interface atualize alguma informação desta interface, etc)
+
+Para gerar o bundle do Babel:
+
+> npx babel src/main.js -o dist/bundle.js -w
