@@ -10,7 +10,7 @@ Na live [BatePapoDev #1 | React, o framework que dominou a web com Fernando Daci
 ## CURSOS DISPONÍVEIS
 
 1. [Curso de JavaScript para React](https://www.youtube.com/playlist?list=PLirko8T4cEmzWZVn_ZKQbfDOuCnSZJ4va) - Marco Bruno (Gratuito)
-1. [Curso React.js Ninja: Módulo React + Webpack](https://www.udemy.com/course/reactjs-ninja-modulo-react-webpack/)
+1. [Curso React.js Ninja: Módulo React + Webpack](https://www.udemy.com/course/reactjs-ninja-modulo-react-webpack/) (Gratuito)
 1. [Bootcamp React.js - B. Academy](https://fdaciuk.notion.site/Bootcamp-React-js-B-Academy-04beed6c0dda4b79a28709b0f4cf6042) - Fernando Daciuk (Gratuito)
 1. [NLW Together ReactJS](https://app.rocketseat.com.br/node/mission-react-js) - Diego Fernandes (Gratuito)
 1. [Curso de React](https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO) - Matheus Battisti (Gratuito)
@@ -20,32 +20,25 @@ Na live [BatePapoDev #1 | React, o framework que dominou a web com Fernando Daci
 
 ---
 
-### REPOSITÓRIOS, PROJETOS E EXERCÍCIOS
+## MEUS REPOSITÓRIOS COM PROJETOS E EXERCÍCIOS DE CURSOS
 Clique sobre a imagem para abrir meu repositório
 
-<div style="width: 60%; margin: 0 auto;">
-    <a href="https://github.com/Darlley/CollabCode/tree/main/matching-game" target="_blank">
-        <img src="https://user-images.githubusercontent.com/37590954/137173772-6ec8a7c3-db8f-42ba-abda-849a3c91f22a.jpg" alt="">
-    </a>
-    <a href="https://github.com/Darlley/Bootcamp-React" target="_blank">
-        <img src="https://user-images.githubusercontent.com/37590954/137174127-e2632361-e78c-44b6-a8ab-e81d9fc3e425.jpg" alt="">
-    </a>
-    <a href="https://github.com/Darlley/ReactJS/tree/main/react-ninja-webpack" target="_blank">
-        <img src="https://user-images.githubusercontent.com/37590954/137174388-a44c83b7-b9fa-4eec-a4e4-8486e78358b9.png" alt="">
-    </a>
-    <a href="https://github.com/Darlley/digital-innovation-one/tree/main/bootcamp-Eduzz-Fullstack-Developer" target="_blank">
-        <img src="https://user-images.githubusercontent.com/37590954/137175044-6aa76bef-6b0d-469f-aedb-98a97c782d66.jpg" alt="">
-    </a>
-    <a href="https://github.com/Darlley/letmeask-vite" target="_blank">
-        <img src="https://user-images.githubusercontent.com/37590954/137175478-03523f31-36b5-4fe8-b076-d558c0b3f891.PNG" alt="">
-    </a>
-    <a href="https://github.com/Darlley/curso-fullstack-devinvestidor-react" target="_blank">
-        <img src="https://user-images.githubusercontent.com/37590954/137175723-570dfe54-59f6-4a9f-97a3-72c76286ece7.jpg" alt="">
-    </a>
-    <a href="https://github.com/Darlley/letmeask-vite" target="_blank">
-        <img src="https://user-images.githubusercontent.com/37590954/137175478-03523f31-36b5-4fe8-b076-d558c0b3f891.PNG" alt="">
-    </a>
-    <a href="https://github.com/Darlley/crud-next-mongodb-chakraui" target="_blank">
-        <img src="https://user-images.githubusercontent.com/37590954/137175865-0bf0d9fb-65ab-43f2-bd0f-3c76a4ec912d.jpg" alt="">
-    </a>
-</div>
+### Tutoriais 
+1. [Iniciando no React JS](https://github.com/Darlley/ReactJS/tree/main/tutorial-jose-luiz-coe) - José Luiz Coe
+1. [React.JS - Guia para Iniciantes](https://github.com/Darlley/ReactJS/tree/main/tutorial-lucas-nhimi) - Lucas Nhimi
+1. [O que é e para que serve o ReactJS](https://github.com/Darlley/ReactJS/tree/main/tutorial-vinicius-dacal) - Vinicius Dacal
+1. [React JS - Melhor Guia para Iniciantes](https://github.com/Darlley/ReactJS/tree/main/tutorial-ayrton-teshima) - Programador a Bordo
+1. [Curso de React para Completos Iniciantes](https://github.com/Darlley/ReactJS/tree/main/tutorial-felipe-rocha) - Felipe Rocha
+
+### Cursos
+1. [Curso React.js Ninja: Módulo React + Webpack](https://github.com/Darlley/ReactJS/tree/main/react-ninja-webpack)
+1. [Curso de JavaScript para React](https://github.com/Darlley/CollabCode/tree/main/matching-game)
+1. [NLW#6 Together - Mission ReactJS](https://github.com/Darlley/letmeask-vite)
+https://github.com/Darlley/curso-fullstack-devinvestidor-react
+
+### Bootcamps
+1. [Bootcamp React.js - B. Academy](https://github.com/Darlley/Bootcamp-React)
+1. [Bootcamp Fullstack Eduzz](https://github.com/Darlley/digital-innovation-one/tree/main/bootcamp-Eduzz-Fullstack-Developer)
+
+### Projetos
+1. [Crud com Next.js, MongoDB e Chakra-UI](https://github.com/Darlley/crud-next-mongodb-chakraui)
