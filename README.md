@@ -24,21 +24,21 @@ Na live [BatePapoDev #1 | React, o framework que dominou a web com Fernando Daci
 Clique sobre a imagem para abrir meu repositório
 
 ### Tutoriais 
-1. [Iniciando no React JS](https://github.com/Darlley/ReactJS/tree/main/tutorial-jose-luiz-coe) - José Luiz Coe
-1. [React.JS - Guia para Iniciantes](https://github.com/Darlley/ReactJS/tree/main/tutorial-lucas-nhimi) - Lucas Nhimi
-1. [O que é e para que serve o ReactJS](https://github.com/Darlley/ReactJS/tree/main/tutorial-vinicius-dacal) - Vinicius Dacal
-1. [React JS - Melhor Guia para Iniciantes](https://github.com/Darlley/ReactJS/tree/main/tutorial-ayrton-teshima) - Programador a Bordo
-1. [Curso de React para Completos Iniciantes](https://github.com/Darlley/ReactJS/tree/main/tutorial-felipe-rocha) - Felipe Rocha
+1. ✔️ [Iniciando no React JS](https://github.com/Darlley/ReactJS/tree/main/tutorial-jose-luiz-coe) - José Luiz Coe
+1. ✔️ [React.JS - Guia para Iniciantes](https://github.com/Darlley/ReactJS/tree/main/tutorial-lucas-nhimi) - Lucas Nhimi
+1. ✔️ [O que é e para que serve o ReactJS](https://github.com/Darlley/ReactJS/tree/main/tutorial-vinicius-dacal) - Vinicius Dacal
+1. ✔️ [React JS - Melhor Guia para Iniciantes](https://github.com/Darlley/ReactJS/tree/main/tutorial-ayrton-teshima) - Programador a Bordo
+1. ⚠ [Curso de React para Completos Iniciantes](https://github.com/Darlley/ReactJS/tree/main/tutorial-felipe-rocha) - Felipe Rocha
 
 ### Cursos
-1. [Curso React.js Ninja: Módulo React + Webpack](https://github.com/Darlley/ReactJS/tree/main/react-ninja-webpack)
-1. [Curso de JavaScript para React](https://github.com/Darlley/CollabCode/tree/main/matching-game)
-1. [NLW#6 Together - Mission ReactJS](https://github.com/Darlley/letmeask-vite)
-https://github.com/Darlley/curso-fullstack-devinvestidor-react
+1. ⚠ [Curso de JavaScript para React](https://github.com/Darlley/CollabCode/tree/main/matching-game)
+1. ✔️ [Curso React.js Ninja: Módulo React + Webpack](https://github.com/Darlley/ReactJS/tree/main/react-ninja-webpack)
+1. ✔️ [NLW#6 Together - Mission ReactJS](https://github.com/Darlley/letmeask-vite)
+1. ⚠ [Curso Front-end React](https://github.com/Darlley/curso-fullstack-devinvestidor-react)
 
 ### Bootcamps
-1. [Bootcamp React.js - B. Academy](https://github.com/Darlley/Bootcamp-React)
-1. [Bootcamp Fullstack Eduzz](https://github.com/Darlley/digital-innovation-one/tree/main/bootcamp-Eduzz-Fullstack-Developer)
+1. ⚠ [Bootcamp React.js - B. Academy](https://github.com/Darlley/Bootcamp-React)
+1. ⚠ [Bootcamp Fullstack Eduzz](https://github.com/Darlley/digital-innovation-one/tree/main/bootcamp-Eduzz-Fullstack-Developer)
 
 ### Projetos
-1. [Crud com Next.js, MongoDB e Chakra-UI](https://github.com/Darlley/crud-next-mongodb-chakraui)
+1. ⚠ [Crud com Next.js, MongoDB e Chakra-UI](https://github.com/Darlley/crud-next-mongodb-chakraui)
