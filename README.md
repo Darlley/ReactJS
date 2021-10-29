@@ -41,4 +41,5 @@ Clique sobre a imagem para abrir meu repositório
 1. ⚠ [Bootcamp Fullstack Eduzz](https://github.com/Darlley/digital-innovation-one/tree/main/bootcamp-Eduzz-Fullstack-Developer)
 
 ### Projetos
+1. ⚠ [Portfólio pessoal](https://github.com/Darlley/portfolio-vite)
 1. ⚠ [Crud com Next.js, MongoDB e Chakra-UI](https://github.com/Darlley/crud-next-mongodb-chakraui)
