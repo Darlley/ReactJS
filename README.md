@@ -41,5 +41,7 @@ Clique sobre a imagem para abrir meu repositório
 1. ⚠ [Bootcamp Fullstack Eduzz](https://github.com/Darlley/digital-innovation-one/tree/main/bootcamp-Eduzz-Fullstack-Developer)
 
 ### Projetos
-1. ⚠ [Portfólio pessoal](https://github.com/Darlley/portfolio-vite)
+1. ⚠ [Portfólio pessoal](https://github.com/Darlley/portfolio-vite) - Feito com Reactjs/Vite e estilizado com Sass e Bootstrap.
+1. ✔️ Desafio da [DLWEB](https://github.com/Darlley/sorteio-page) - Feito com Nextjs, estilizado com Sass e Bootstrap e hospedado na [Vercel](https://sorteio-woad.vercel.app/).
+1. ✔️ Desafio da [PrivateCode](https://github.com/Darlley/desafio-privatecode) - Feito com Nextjs, estilizado com Sass e Bootstrap e hospedado na [Vercel](https://privatecode.vercel.app/).
 1. ⚠ [Crud com Next.js, MongoDB e Chakra-UI](https://github.com/Darlley/crud-next-mongodb-chakraui)
